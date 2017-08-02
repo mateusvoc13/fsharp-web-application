@@ -1,0 +1,6 @@
+FSharp.Core
+Fable.Core
+Fable.Import.Browser
+dotnet-fable
+
+File: Fable.Import.D3.fs
